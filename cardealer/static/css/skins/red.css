@@ -1,0 +1,765 @@
+.button-theme {
+    background:blue;
+}
+
+.button-theme:hover {
+    background: blue;
+}
+
+.btn-border {
+    color: blue;
+    border: solid 1px blue;
+}
+
+.pages-404 .btn {
+    background: blue;
+}
+
+.pages-404 .btn:hover {
+    background: blue;
+}
+
+.btn-border:hover{
+    background: blue;
+    border: solid 1px blue;
+}
+
+.blog-2 .b-btn{
+    color: blue;
+}
+
+
+.vehicles-box .detail h5{
+    color: blue;
+}
+
+.about-car .best-used-car h3 span{
+    color:blue;
+}
+
+.service-center .about-text h3 span{
+    color: blue;
+}
+
+.service-center ul li i{
+    color: blue;
+}
+
+.service-box ul li i {
+    color: blue;
+}
+
+.shop-info p a{
+    color: blue;
+}
+
+.car-box .facilities-list li span i{
+    color: blue;
+}
+
+.blog-3 .post-meta ul li i {
+    color: blue;
+}
+
+.blog-3 .date-box {
+    background: blue;
+}
+
+.blog-3 .date-box::after {
+    border-right: 10px solid blue;
+}
+
+.service-info-2 .icon {
+    color: blue;
+}
+
+.about-slider-box:before {
+    border: 2px solid blue;
+}
+
+.question .contact-info li i{
+    color: blue;
+}
+
+.price-box-2{
+    color: blue;
+}
+
+.car-box-5 .facilities-list li i{
+    color: blue;
+}
+
+.category-content .new{
+    background: blue;
+}
+
+.category-subtitle{
+    color: blue;
+}
+
+.car-box .footer ul li a:hover{
+    color: blue;
+}
+
+.car-model-2 .ratings-2 span{
+    background: blue;
+}
+
+.car-box-3 .footer ul li a:hover{
+    color: blue;
+}
+
+.overlap-btn:hover{
+    background: blue;
+    border: solid 1px blue;
+}
+
+.overlap-btn.active {
+    border: 1px solid blue!important;
+    background: blue !important;
+    color: #fff;
+}
+
+.car-box-2 .facilities-list li i{
+    color: blue;
+}
+
+.change-view-btn:hover {
+    background: blue;
+    border: solid 1px blue;
+    color: #fff;
+}
+
+.car-model-2 .price-box .del-2 {
+    color: blue;
+}
+
+.change-view-btn {
+    border-radius: 2px;
+    border: solid 1px blue;
+    color: blue;
+}
+
+.active-view-btn{
+    background: blue;
+    border: solid 1px blue;
+    color: #fff;
+}
+
+.sb-5 .search-area-inner{
+    background:blue;
+}
+
+.blog-3 .post-meta ul li i{
+    color: blue;
+}
+
+.carousel-indicators .active {
+    background-color: blue;
+}
+
+.navbar-light .navbar-toggler{
+    background: blue;
+}
+
+.banner h4 {
+    color: blue;
+}
+
+.shop-info .price del {
+    color: blue;
+}
+
+.counter-box h1{
+    color: blue;
+}
+
+.details-banner .cover-buttons ul li a:hover {
+    background: blue;
+}
+
+.text .ratings-box {
+    background: blue;
+}
+
+.dashboard-nav ul {
+    border-bottom: 1px solid blue;
+}
+
+.new-user-box .follow:hover{
+    background:blue;
+    color: #fff;
+}
+
+.setting-button i{
+    color:blue;
+}
+
+#page_scroller {
+    background:blue;
+}
+
+.dashboard-nav{
+    background:blue;
+}
+
+/** Tab box 2 start **/
+.tab-box-2 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background: transparent;
+    border-bottom: solid 2pxblue;
+    border-radius: 0;
+    color:blue;
+}
+
+.tab-box .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background:blue;
+}
+
+.pricing-1 .plan-list ul li i{
+    color: blue;
+}
+
+.checkbox-theme input[type="checkbox"]:checked + label::before {
+    border: 2px solid blue;
+}
+
+.average-rating{
+    background: blue;
+}
+
+.rating-width{
+    background: blue;
+}
+
+.heading-car h3 span{
+    color: blue;
+}
+
+.btn-secton .carousel-indicators .active {
+    background-color: blue;
+}
+
+.rating-count span{
+    color: blue;
+}
+
+.filteriz-navigation .active{
+    color: blue;
+}
+
+.main-header .dropdown-menu a:hover {
+    color:blue;
+}
+
+input[type=checkbox]:checked + label:before {
+    color:blue;
+}
+
+.testimonial-3 .carousel-indicators li.active {
+    background: blue;
+}
+
+.banner-bg-color{
+    background:blue;
+}
+
+.btn-theme{
+    background:blue;
+    border: solid 1pxblue;
+}
+
+.featured-car-4 .carousel-indicators li.active {
+    background: blue;
+}
+
+.btn-theme:hover{
+    background: blue;
+    border: solid 1px blue;
+}
+
+.btn-white-lg-outline:hover {
+    color: #FFF;
+    background:blue;
+    border: solid 2pxblue;
+}
+
+.car-amenities ul li i {
+    color:blue;
+}
+
+.border-button-theme {
+    color:blue;
+    border: 2px solidblue;
+}
+
+.banner h2 span{
+    color:blue;
+}
+
+.car-model-2 .modal-right-content h3{
+    color:blue;
+}
+
+.testimonial-2 .testimonial-info-box p i{
+    color:blue;
+}
+
+.main-title-2 h1 span{
+    color:blue;
+}
+
+.banner .banner-slider-inner h2 span{
+    color:blue;
+}
+
+.main-title h1 span{
+    color:blue;
+}
+
+
+
+.banner-detail-box .white-box .slide-price {
+    color:blue;
+}
+
+.banner-detail-box .white-box .slide-location::after {
+    background-color:blue;
+}
+
+.search-options-btn, .search-options-btn:hover {
+    background:blue;
+}
+
+.search-button {
+    background:blue;
+}
+
+.intro-section {
+    background:blue;
+}
+
+.search-button:hover {
+    color: #fff;
+    background: blue;
+}
+
+.pricing-1 .plan-header .plan-price {
+    color: blue;
+}
+
+.bootstrap-select.btn-group.show-tick .dropdown-menu li.selected a span.check-mark {
+    color:blue;
+}
+
+.bootstrap-select .dropdown-menu > .active > a,
+.bootstrap-select .dropdown-menu > .active > a:focus,
+.bootstrap-select .dropdown-menu > .active > a:hover {
+    color:blue;
+}
+
+.bootstrap-select .dropdown-menu li a:hover .text {
+    color:blue;
+}
+
+.tag {
+    background:blue;
+}
+
+.view-all ul li a:hover{
+    background: blue;
+    color: #fff;
+}
+
+.recent-properties-box .detail header::after {
+    background-color:blue;
+}
+
+
+
+footer .footer-item .contact-info li label a:hover {
+    color:blue;
+}
+
+.service-info i{
+    color:blue;
+}
+
+.counter-box-2 .icon{
+    background: blue;
+}
+
+.service-box .heading .title h4 a:hover {
+    color:blue;
+}
+
+.main-header .form-inline .submit {
+    border: solid 1pxblue;
+    color:blue;
+}
+
+.main-header .form-inline .submit:hover {
+    border: solid 1pxblue;
+    background:blue;
+    color: #fff;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+    color:blue;
+}
+
+.sh-3 .navbar-expand-lg .navbar-nav .nav-link:hover {
+    color: #515151;
+}
+
+.banner .banner-slider-inner h1 span{
+    color:blue;
+}
+
+/*.main-header .navbar-expand-lg .navbar-nav .active .nav-link {
+    color:blue !important;
+}*/
+
+.main-header .navbar-expand-lg .user-account li a:hover {
+    color:blue;
+}
+
+.plan .price-header h1 {
+    color:blue;
+}
+
+.btn-outline {
+    border: solid 1pxblue;
+    color:blue;
+}
+
+.car-box .footer .price{
+    color:blue;
+}
+
+.btn-outline:hover {
+    border: solid 1px blue;
+    background: blue;
+    color: #fff;
+}
+
+.btn-outline-2 {
+    border: solid 2pxblue;
+    color:blue;
+    font-weight: 600;
+}
+
+.heading-car-2 h3 span {
+    color:blue;
+}
+
+.btn-outline-2:hover {
+    border: solid 2px blue;
+    background: blue;
+    color: #fff;
+}
+
+.footer .form-inline .btn{
+    background:blue;
+    color: #fff;
+}
+
+.about-box .detail h3 {
+    color:blue;
+}
+
+.sb-2{
+    background: blue;
+}
+
+.best-used-car ul li i {
+    color: blue;
+}
+
+.posts-by-category ul li span:hover{
+    color: blue;
+}
+
+li.active.filtr-button.filtr a{
+    color:blue;
+}
+
+.coming-soon-inner h1 span{
+    color:blue;
+}
+
+.filteriz-navigation li a:hover{
+    color:blue;
+}
+
+.sub-banner .page-info .breadcrumb-area ul li a:hover {
+    color:blue;
+}
+
+
+.show-more-options i{
+    color:blue;
+}
+
+.pagination > li > .active {
+    background:blue;
+}
+
+.pagination > li > a:hover {
+    background:blue;
+    color: #fff;
+}
+
+.contact-section .btn-section .active-bg {
+    color:blue;
+}
+
+.read-more {
+    color:blue;
+}
+
+.blog-3 .detail .post-meta span a i {
+    color:blue;
+}
+
+.range-slider .ui-slider .ui-slider-handle {
+    background:blue;
+}
+
+.our-agent-sidebar .carousel-indicators .active {
+    background:blue;
+}
+
+.range-slider .ui-slider .ui-slider-handle {
+    border: 2px solidblue;
+}
+
+.range-slider .ui-widget-header {
+    background-color:blue;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .link-color {
+    color:blue;
+    border: solid 1pxblue;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .link-color:hover{
+    color: #fff;
+    border: solid 1pxblue;
+    background:blue;
+}
+
+.posts-by-category ul li a:hover {
+    color:blue;
+}
+
+.tags-box ul li a:hover {
+    color:#fff;
+    border: 1px solid blue;
+    background: blue;
+}
+
+.latest-tweet a {
+    color:blue;
+}
+
+.blog-1 h3 a:hover{
+    color:blue;
+}
+
+.blog-tags a:hover {
+    color:#fff;
+    border: 1px solid blue;
+    background: blue;
+}
+
+.car-box-5 .detail .title a {
+    color:blue;
+}
+
+.price-box-3 {
+    color: blue;
+}
+
+.vs{
+    color: blue;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+    color:blue;
+}
+
+.breadcrumbs li a:hover {
+    color:blue;
+}
+
+.helping-center ul li i {
+    color:blue;
+}
+
+.my-account-box .title::after {
+    background-color:blue;
+}
+
+.breadcrumb-nav ul .active {
+    color:blue;
+}
+
+.photoUpload {
+    background:blue;
+}
+
+.typography-page mark.color {
+    background-color:blue;
+}
+
+.faq-accordion .card-header .collapsed.card-title:before {
+    color:blue;
+}
+
+.dashboard-nav ul li span.nav-tag {
+    color:blue;
+}
+
+.comment-content h6 span a{
+    color:blue;
+}
+
+.comment-content h6 span a:hover{
+    color: blue;
+}
+
+.bg-active {
+    background: blue;
+    color: #fff!important;
+}
+
+.banner h3 span{
+    color: blue;
+}
+
+.typography .list-3 li:before, .list-2 li:before, .list-1 li:before {
+    color:blue;
+}
+
+.numbered.color.filled ol > li::before {
+    border: 1px solidblue;
+    background-color:blue;
+}
+
+.numbered.color ol > li::before {
+    border: 1px solidblue;
+    color:blue;
+}
+
+.widget-link:hover {
+    color:blue;
+}
+
+.coming-soon-inner .btn, .coming-soon-inner .btn:hover, .coming-soon-inner .btn:active {
+    background:blue;
+}
+
+.car-box-2 .detail .title a {
+    color:blue;
+}
+
+.tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color:blue;
+}
+
+.tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
+    background-color:blue;
+}
+
+.map-marker:hover {
+    background-color:blue;
+    cursor: pointer;
+}
+
+.map-marker:hover:before {
+    border-color:blue transparent transparent transparent;
+}
+
+.map-marker.featured:hover {
+    background-color:blue;
+}
+
+.map-marker.featured:hover:before {
+    border-color:blue transparent transparent transparent;
+}
+
+.map-marker .icon {
+    border: 3px solidblue;
+}
+
+.marker-active .map-marker {
+    background-color:blue;
+}
+
+.marker-active .map-marker:before {
+    border-color:blue transparent transparent transparent;
+}
+
+.slick-arrow-buton:hover{
+    background:blue;
+    color: #fff;
+}
+
+.map-properties .map-content h4 a {
+    color:blue;
+}
+
+.dropzone-design:hover {
+    border: 2px dashedblue;
+}
+
+
+@media (max-width: 992px) {
+    .main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color:blue!important;
+    }
+
+    .car-model-2 .modal-header {
+        background: blue;
+        padding: 20px 20px 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color:blue;
+    }
+
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+        background-color:blue !important;
+    }
+
+    .main-header .navbar-default .nav > li > a:hover {
+        background:blue;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+        background-color:blue !important;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        background: #eee;
+    }
+}
+
+@media (min-width: 992px) {
+    /*.header-transparent .navbar-expand-lg .navbar-nav .active .nav-link,
+    .header-transparent .navbar-expand-lg .navbar-nav .nav-link:hover
+    {
+        color: #fff !important;
+    }
+
+    .header-transparent .navbar-expand-lg .navbar-nav .nav-link {
+        color: #fff;
+    }
+
+    .header-transparent .link-color {
+        color: #fff;
+    }*/
+}
